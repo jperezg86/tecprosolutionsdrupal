@@ -40,7 +40,8 @@ simpletest
 
 modules/*
 !modules/custom
-modules/contrib
+themes/*
+!themes/custom
 
 .csslintrc
 .editorconfig
