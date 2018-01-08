@@ -1,0 +1,13 @@
+name: Dirfolio
+type: theme
+description: DirFolio tema
+core: 8.x
+regions:
+  messages : 'Messages'
+  header: 'Header'
+  footer: 'Footer'
+  navbar: 'Nav Bar'
+  highlighted: 'Highlighted'
+  content: 'Main content'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
