@@ -38,8 +38,10 @@ sites/simpletest
 # Ignore SimpleTest multi-site environment.
 simpletest
 
-
+modules/*
+!modules/custom
 modules/contrib
+
 .csslintrc
 .editorconfig
 .eslintignore
