@@ -1,0 +1,6 @@
+name: Dirfolio Common Blocks
+type: module
+description: 'Modulo de bloques comunes (sidebars, header, footer etc) para el tema Dirfolio'
+package: Custom Modules
+version: 1.0
+core: '8.x'

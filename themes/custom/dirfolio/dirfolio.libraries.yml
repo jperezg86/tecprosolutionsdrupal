@@ -1,0 +1,11 @@
+global-styling:
+  version: 1.x
+  css:
+    theme:
+      css/theme/styles.css: {}
+    base: 
+      'http://fonts.googleapis.com/css?family=Antic|Raleway:300' : {type: 'external'}
+    layout:
+      'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css' : {type: 'external'}
+    component:
+      css/component/simple-line-icons.css: {}  
