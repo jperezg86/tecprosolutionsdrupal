@@ -1,0 +1,8 @@
+<?php 
+
+function dirfolio_preprocess_views_view__frontpage(&$variables){
+	$variables['name'] = "cheps";
+
+	$variables['form'] = \Drupal::formBuilder()->
+	getForm('Drupal\dirfolio_common_blocks\Form\ExampleForm');
+}
